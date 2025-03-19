@@ -59,7 +59,7 @@
       rgba(255, 105, 180, 0.8),
       rgba(148, 0, 211, 0.8)
     ),
-    url('C:\Users\manasvi\OneDrive\Desktop\Process\birthday-ecom\src\assests\images\homePic.jpg') center/cover;
+    url('.\\assests\\images\\homePic.jpg') center/cover;
   min-height: 100vh;
   display: flex;
   align-items: center;
